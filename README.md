@@ -1,1 +1,1 @@
-# Payment-System-Interface
+# Payment-Gateway-Interface
